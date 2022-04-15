@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.4",
+    "graphql": "^16.3.0",
+    "graphql-request": "^4.2.0",
+    "html-react-parser": "^1.4.10",
+    "moment": "^2.29.2",
+    "next": "12.1.4",
+    "postcss": "^8.4.12",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-multi-carousel": "^2.8.0",
+    "sass": "^1.49.11"
+  },
+  "devDependencies": {
+    "eslint": "8.12.0",
+    "eslint-config-next": "12.1.4",
+    "tailwindcss": "^3.0.23"
+  }
+}
